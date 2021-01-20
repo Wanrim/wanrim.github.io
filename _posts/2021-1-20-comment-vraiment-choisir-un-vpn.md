@@ -3,6 +3,8 @@ layout: post
 title: Comment vraiment choisir un VPN (et ne pas se fier à des tier list éclatées)
 ---
 
+Spoiler alert : vous ne serez jamais anonyme avec un VPN.
+
 ## Ce qu'on ne peut pas vérifier
 
 Dans le choix d'un VPN, on voit souvent le lien de [safetydetectives](https://www.safetydetectives.com/best-vpns/) (anciennemment thatoneprivacysite) revenir. Voilà 
