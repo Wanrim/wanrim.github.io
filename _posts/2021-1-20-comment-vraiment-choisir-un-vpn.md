@@ -46,11 +46,5 @@ pas parce que le protocole de chiffrement est 4x plus important que vous serez 4
 serveurs sur-exploités avec un débit de merde), avec des protocoles ok tier, et une disponiblité sur vos appareils que vous souhaités utiliser avec (Linux, iOS..).
 
 Mais ne prenez pas en compte ce que vous ne pouvez pas vérifier, comme la présence de logs, sa confidentialité auprès du fournisseur VPN, l'éthique et la politique 
-de ce dernier. Indiquer le débit des VPN est pas vraiment représentatif, il est trop influencé par sa connexion réelle, et les multiples routes qu'on peut prendre.
-
-
-
-
-
-
-
+de ce dernier. Indiquer le débit des VPN est pas vraiment représentatif, il est trop influencé par sa connexion réelle, et les multiples routes qu'on peut prendre. En 
+ce qui peut concerner une réputation, on oublie pas que les sites de notation ne sont pas viables, on peut payer pour retirer les critiques négatives, et dans l'autre sens l'expérience de chacun n'est pas forcément représentative l'expérience de tout le monde. La seule solution : **essayer**.
